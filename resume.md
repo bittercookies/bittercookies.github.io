@@ -1,8 +1,8 @@
 # Fia Syifa Afiyah
 Mahasiswa S1 Ilmu Komputer IPB
 
-*Grand Galaxy City Jl. Gardenia Utara no.58 Bekasi Selatan 17147*
-*+62 878-8277-2600*
+*Grand Galaxy City Jl. Gardenia Utara no.58 Bekasi Selatan 17147*  
+*+62 878-8277-2600*  
 *flaw.riette@gmail*.*com*
 
 ## Pendidikan
