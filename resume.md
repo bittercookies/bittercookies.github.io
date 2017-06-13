@@ -32,3 +32,5 @@ Juli 2003 – Juli 2009
 ## Hobi
 
 Menggambar digital dan apresiasi kultur.
+\
+
