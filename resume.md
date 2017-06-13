@@ -1,3 +1,8 @@
+Title:      Resume
+Author:     Fia Syifa Afiyah
+Institute:  Ilmu Komputer IPB
+Date:       2017
+
 # Fia Syifa Afiyah
 Mahasiswa S1 Ilmu Komputer IPB
 
